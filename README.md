@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cesarlinux
-- 👀 I’m interested in development tech
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in development and databases
+- 🌱 I’m currently learning Angular and Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
